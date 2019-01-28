@@ -1,0 +1,15 @@
+C:\Users\aidar\source\repos\WPF CarSellingManager\WPF CarSellingManager\bin\Debug\WPF CarSellingManager.exe.config
+C:\Users\aidar\source\repos\WPF CarSellingManager\WPF CarSellingManager\bin\Debug\WPF CarSellingManager.exe
+C:\Users\aidar\source\repos\WPF CarSellingManager\WPF CarSellingManager\bin\Debug\WPF CarSellingManager.pdb
+C:\Users\aidar\source\repos\WPF CarSellingManager\WPF CarSellingManager\obj\Debug\WPF CarSellingManager.csprojAssemblyReference.cache
+C:\Users\aidar\source\repos\WPF CarSellingManager\WPF CarSellingManager\obj\Debug\MainWindow.g.cs
+C:\Users\aidar\source\repos\WPF CarSellingManager\WPF CarSellingManager\obj\Debug\App.g.cs
+C:\Users\aidar\source\repos\WPF CarSellingManager\WPF CarSellingManager\obj\Debug\WPF CarSellingManager_MarkupCompile.cache
+C:\Users\aidar\source\repos\WPF CarSellingManager\WPF CarSellingManager\obj\Debug\WPF CarSellingManager_MarkupCompile.lref
+C:\Users\aidar\source\repos\WPF CarSellingManager\WPF CarSellingManager\obj\Debug\MainWindow.baml
+C:\Users\aidar\source\repos\WPF CarSellingManager\WPF CarSellingManager\obj\Debug\WPF CarSellingManager.g.resources
+C:\Users\aidar\source\repos\WPF CarSellingManager\WPF CarSellingManager\obj\Debug\WPF_CarSellingManager.Properties.Resources.resources
+C:\Users\aidar\source\repos\WPF CarSellingManager\WPF CarSellingManager\obj\Debug\WPF CarSellingManager.csproj.GenerateResource.cache
+C:\Users\aidar\source\repos\WPF CarSellingManager\WPF CarSellingManager\obj\Debug\WPF CarSellingManager.csproj.CoreCompileInputs.cache
+C:\Users\aidar\source\repos\WPF CarSellingManager\WPF CarSellingManager\obj\Debug\WPF CarSellingManager.exe
+C:\Users\aidar\source\repos\WPF CarSellingManager\WPF CarSellingManager\obj\Debug\WPF CarSellingManager.pdb
